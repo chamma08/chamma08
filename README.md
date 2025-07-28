@@ -21,7 +21,7 @@
 
 ### 🧠 About Me
 
-- 🌱 Currently learning **AI/ML, AR/VR**
+- 🌱 Currently learning **C#, .net, Java Springboot microservice arc**
 - 📬 Reach me at: **matheeshacham08@gmail.com**
 - ⚡ Fun fact: **You can call me "CHAMMA"**
 
